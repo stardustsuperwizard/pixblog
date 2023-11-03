@@ -1,0 +1,19 @@
+packages:
+  - name: v1
+    functions:
+      - name: index
+        runtime: 'python:3.11'
+        limits:
+          timeout: 30000
+      - name: hello
+        runtime: 'python:3.11'
+        limits:
+          timeout: 30000
+      - name: login
+        runtime: 'python:3.11'
+        limits:
+          timeout: 30000
+      - name: logout
+        runtime: 'python:3.11'
+        limits:
+          timeout: 30000

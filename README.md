@@ -1,2 +1,2 @@
-# pixblog
-a picture blog
+# pictureblog
+ a small pictures blog
